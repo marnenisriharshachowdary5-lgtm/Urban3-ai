@@ -1,0 +1,6 @@
+{
+  "name": "UrbanMind AI — Autonomous Planned City Generator & Digital Twin",
+  "description": "Next-generation generative urban planning studio and digital twin simulator. Harness Gemini AI to design 15-minute sustainable cities, simulate environmental and mobility stress tests, and optimize citizen well-being.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
